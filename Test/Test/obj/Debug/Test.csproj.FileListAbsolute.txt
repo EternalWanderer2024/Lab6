@@ -1,0 +1,11 @@
+D:\Работа\Заказ 85\Test\Test\bin\Debug\Test.exe.config
+D:\Работа\Заказ 85\Test\Test\bin\Debug\Test.exe
+D:\Работа\Заказ 85\Test\Test\bin\Debug\Test.pdb
+D:\Работа\Заказ 85\Test\Test\bin\Debug\MyLibrary.dll
+D:\Работа\Заказ 85\Test\Test\bin\Debug\MyLibrary.pdb
+D:\Работа\Заказ 85\Test\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+D:\Работа\Заказ 85\Test\Test\obj\Debug\Test.csproj.SuggestedBindingRedirects.cache
+D:\Работа\Заказ 85\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+D:\Работа\Заказ 85\Test\Test\obj\Debug\Test.csproj.CopyComplete
+D:\Работа\Заказ 85\Test\Test\obj\Debug\Test.exe
+D:\Работа\Заказ 85\Test\Test\obj\Debug\Test.pdb
