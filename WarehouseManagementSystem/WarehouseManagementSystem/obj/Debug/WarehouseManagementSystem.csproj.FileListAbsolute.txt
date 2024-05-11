@@ -1,0 +1,11 @@
+D:\Работа\Заказ 85\WarehouseManagementSystem\WarehouseManagementSystem\bin\Debug\WarehouseManagementSystem.exe.config
+D:\Работа\Заказ 85\WarehouseManagementSystem\WarehouseManagementSystem\bin\Debug\WarehouseManagementSystem.exe
+D:\Работа\Заказ 85\WarehouseManagementSystem\WarehouseManagementSystem\bin\Debug\WarehouseManagementSystem.pdb
+D:\Работа\Заказ 85\WarehouseManagementSystem\WarehouseManagementSystem\bin\Debug\log4net.dll
+D:\Работа\Заказ 85\WarehouseManagementSystem\WarehouseManagementSystem\bin\Debug\log4net.xml
+D:\Работа\Заказ 85\WarehouseManagementSystem\WarehouseManagementSystem\obj\Debug\WarehouseManagementSystem.csproj.AssemblyReference.cache
+D:\Работа\Заказ 85\WarehouseManagementSystem\WarehouseManagementSystem\obj\Debug\WarehouseManagementSystem.csproj.SuggestedBindingRedirects.cache
+D:\Работа\Заказ 85\WarehouseManagementSystem\WarehouseManagementSystem\obj\Debug\WarehouseManagementSystem.csproj.CoreCompileInputs.cache
+D:\Работа\Заказ 85\WarehouseManagementSystem\WarehouseManagementSystem\obj\Debug\WarehouseManagementSystem.csproj.CopyComplete
+D:\Работа\Заказ 85\WarehouseManagementSystem\WarehouseManagementSystem\obj\Debug\WarehouseManagementSystem.exe
+D:\Работа\Заказ 85\WarehouseManagementSystem\WarehouseManagementSystem\obj\Debug\WarehouseManagementSystem.pdb

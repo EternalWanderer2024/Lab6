@@ -1,0 +1,2 @@
+2024-05-10 20:40:13,983 INFO [1] Program - Running as DEKSTOP-18\Kuki
+2024-05-10 20:40:14,014 ERROR [1] Program - This will appear in red in the console and still be written to file!
